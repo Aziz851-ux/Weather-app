@@ -1,0 +1,14 @@
+Creating a weather app
+---------------------------------
+
+link for getting the api url for the city:
+https://openweathermap.org/current
+
+
+fetch this url for getting the weather by city name:
+https://api.openweathermap.org/data/2.5/weather?q=japan&units=metric&appid={API_KEY}
+
+
+--------------------------------------------
+getting icons:
+https://openweathermap.org/img/wn/10n@2x.png

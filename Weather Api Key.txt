@@ -1,0 +1,4 @@
+My Api Key of weather api:
+	697bbcdce3cf8494ebea8af868184553
+
+
